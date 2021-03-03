@@ -20,7 +20,8 @@ Eloquent Javascript by Marijn Haverbeke
 You Don't Know JS  by Kyle Simpson
 Javascript: The Definitive Guide by David Flanagan
 
-#Code example: `
+#Code example: 
+```
 exports.min = function min (array) {
 	if((!array) || !array.length){
 		return 0
@@ -41,7 +42,7 @@ exports.avg = function avg (array) {
 	}
   return array.reduce((a,b)=> a + b, 0)/array.length;
 }
-`
+```
 
 ## Skill Highlights
 * Html5
