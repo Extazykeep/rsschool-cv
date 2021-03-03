@@ -58,6 +58,7 @@ Minsk State Higher Radiotechnical College
 Design and manufacturing  of radioelectronic equipment
 
 #Languages
+
 Russian – Native
 English – B1
 
