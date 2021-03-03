@@ -57,10 +57,10 @@ exports.avg = function avg (array) {
 Minsk State Higher Radiotechnical College
 Design and manufacturing  of radioelectronic equipment
 
-#Languages
+## Languages
 
-Russian – Native
-English – B1
+Russian â€“ Native
+English â€“ B1
 
 
 
