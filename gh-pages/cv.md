@@ -7,7 +7,7 @@
 * Email:  extazykeep@gmail.com
 
 
-## About Me
+## About Me:
 
 I would like to have a job where I can grow as web developer, fulfill myself and put my knowledge into practice. My goal at the moment is to find a job where i can get new useful experience . I'm curious so I always want to know more. Problems and difficult tasks do not scare me. 
 Personal skills:  sociable, disciplined, curious.
